@@ -1,8 +1,8 @@
-# Heartline · Heart Health Information Assistant
+# Cognitive Heart-Health Information Assistant
 
 **UCS420 Cognitive Computing · Assignment 10 · Even-roll track**
 
-[Open in Google Colab](https://colab.research.google.com/github/doraem-on/New_cogn/blob/main/assignment10/main.ipynb) · [View the executed notebook on GitHub](main.ipynb)
+[Open in Google Colab] (https://github.com/NullV-ctor/UCS420/blob/main/Cognitive%20lab10/main.ipynb) · [View the executed notebook on GitHub](main.ipynb)
 
 Choose **Runtime → Run all** in Colab. Type a question in the **Ask Heartline** form and run that cell again for each new question. The last five replies stay on screen. The notebook contains the corpus, knowledge base and model training code, so it needs no API key or data uploads. Use fictional examples when sharing saved outputs.
 
@@ -48,7 +48,7 @@ The retrieval check also passed: cuff fitting and keeping a blood-pressure log r
 
 ![Heartline in Google Colab asking whether “What about my heart?” refers to warning signs or risk factors.](images/heartline-colab-2026-11-17.jpg)
 
-[Open in Google Colab](https://colab.research.google.com/github/doraem-on/New_cogn/blob/main/assignment10/main.ipynb) · [View full-size screenshot](images/heartline-colab-2026-11-17.jpg)
+[Open in Google Colab](https://github.com/NullV-ctor/UCS420/blob/main/Cognitive%20lab10/main.ipynb) · [View full-size screenshot](images/heartline-colab-2026-11-17.jpg)
 
 The small, hand-authored corpus measures classroom behavior. Real users may phrase symptoms or combine topics in ways the rules miss. This educational prototype is unsuitable for clinical triage or personal treatment decisions.
 
